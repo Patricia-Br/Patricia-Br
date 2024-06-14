@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi everyone, i'm Patricia 👋
 
-<!--
-**Patricia-Br/Patricia-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me 😎
+ I'm 21 years old, and I'm currently specializing to be a `full-stack developer` by [Rockeatseat](https://www.rocketseat.com.br)
+ 
 
-Here are some ideas to get you started:
+#### Current stack 😮
+- `HTML`
+- `CSS`
+- I learning `Javascript`
+- Layout design: `Figma`
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact 😊
+- Linkedin: https://www.linkedin.com/in/patricia-braga-7a3651236/
+- Email: patiecavalcante4@gmail.com
+
