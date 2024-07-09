@@ -12,6 +12,6 @@
   
 
 #### Contact 😊
-- Linkedin: https://www.linkedin.com/in/patricia-braga-7a3651236/
+- Linkedin: https://www.linkedin.com/in/patriciaabraga
 - Email: patiecavalcante4@gmail.com
 
