@@ -15,3 +15,7 @@
 - Linkedin: https://www.linkedin.com/in/patriciaabraga
 - Email: patiecavalcante4@gmail.com
 
+
+#### Rocketseat ID
+<a href="https://app.rocketseat.com.br/me/patriciabrr"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=patriciabrr&type=card" width="160" alt="Patricia Braga's Rocket ID"/></a>
+
