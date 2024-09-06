@@ -12,7 +12,7 @@
   
 
 #### Contact 😊
-- Linkedin: https://www.linkedin.com/in/patriciaabraga
+- Linkedin: https://www.linkedin.com/in/patriciaabraga/
 - Email: patiecavalcante4@gmail.com
 
 
