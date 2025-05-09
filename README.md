@@ -1,7 +1,7 @@
 ## Hi everyone, i'm Patricia 👋
 
 #### About me 😎
- I'm 21 years old, and I'm currently specializing to be a `full-stack developer` by [Rockeatseat](https://www.rocketseat.com.br)
+ I'm 22 years old, and I'm currently specializing to be a `full-stack developer` by [Rockeatseat](https://www.rocketseat.com.br)
  
 
 #### Current stack 😮
